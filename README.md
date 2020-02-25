@@ -9,15 +9,18 @@ Competition Link: https://www.kaggle.com/c/widsdatathon2020
     <p align="center">
     <img src="./imgs/bestSubmission.PNG" alt="Best Submission">
     <br>
-    <br>
     </p>
 
 ### Public Leaderboard ###
 <p align="center">
     <img src="./imgs/publicLeaderboard.PNG" alt="Public Leaderboard">
     <br>
-    <br>
     </p>
 
 ### Private Leaderboard ###
-To be Announced
+<p align="center">
+    <img src="./imgs/privateLeaderboard.PNG" alt="Public Leaderboard">
+    <br>
+    <br>
+    </p>
+
